@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://wu-kiot.github.io//sitemap.xml
+User-agent: * Disallow: Sitemap: https://wu-kiot.github.io/sitemap.xml
