@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Faculty of Informatics
+subtitle: ## Faculty of Informatics, Data Science and NLP team
 
 profile:
   align: right
@@ -17,6 +17,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+We are a team of passionate researchers, instructors, and collaborators committed to adapting global advancements in AI and data science to Ethiopian languages and task-specific challenges across industries. By focusing on both Natural Language Processing (NLP) and Data Science, our work aims to enhance accessibility, drive innovation, and empower communities through localized technological solutions. This initiative inspired by [Dr. Seid Muhie Yimam](https://seyyaw.github.io/) from the University of Hamburg and supported by the International Organization for Migration (IOM).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
