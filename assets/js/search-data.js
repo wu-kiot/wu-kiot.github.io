@@ -37,16 +37,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-training",
+          title: "Training",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-team",
+          title: "Team",
+          description: "Members of the WU, KIoT, NLP and Data Science Team",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
