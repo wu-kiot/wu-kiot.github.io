@@ -1,5 +1,15 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Us
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are a dedicated team of researchers and instructors at Wollo University, KIoT, focused on leveraging AI and data science to address Ethiopian language and industry-specific challenges. Inspired by Dr. Seid Muhie Yimam and supported by the International Organization for Migration (IOM), we specialize in Natural Language Processing (NLP) and Data Science to create innovative, localized solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Background
+
+Established in December 2024, our team collaborates with institutions like Bahir Dar University to advance Ethiopia's linguistic and industrial capabilities through technology. Our efforts are rooted in the belief that adapting global advancements in AI to local contexts can drive meaningful change.
+
+## Project Themes
+
+Our projects address critical areas such as speech recognition, predictive modeling, and smart city solutions. We apply state-of-the-art techniques to preprocess local languages and develop models tailored for Ethiopian contexts, ensuring relevance and impact.
+
+## Focus
+
+Our primary focus areas include NLP for local dialects, predictive analytics in healthcare and agriculture, and AI enhancements for urban and industrial sectors. We emphasize open-source collaboration, aiming to make technology accessible and beneficial for all.

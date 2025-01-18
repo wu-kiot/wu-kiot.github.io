@@ -1,0 +1,1 @@
+[Dr. Seid Muhie Yimam](https://seyyaw.github.io/) is the Technical Lead at the Hub of Computing and Data Science (HCDS) and a Research Associate at the Language Technology Research Group, Universität Hamburg. As a collaborator with the KIoT research team, he focuses on digital humanities, emphasizing big data processing, NLP, and data science education.
