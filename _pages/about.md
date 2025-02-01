@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: ## Faculty of Informatics, Data Science and NLP Team
 

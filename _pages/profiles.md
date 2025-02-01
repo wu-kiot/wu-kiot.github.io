@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Team
+title: team
 description: Members of the WU, KIoT, NLP and Data Science Team
 nav: true
 nav_order: 7
