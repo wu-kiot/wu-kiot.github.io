@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Welcome to the WU/KIoT GitHub repository details page. Here, you will see lists of the members and public repositories.
 nav: true
 nav_order: 4
 ---
